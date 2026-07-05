@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm a uni student :)
+I'm Dylan, 
 
-- I’m currently trying to contribute to Open Source projects
-- I’m currently doing research in Computer Vision
-- I’m currently learning how the research process works
-- I’m currently learning about Multi-Agent Orchestration and Harness Tools
+- I joined uni at 16
+- I’m doing research in Computer Vision
+- I’m building (and interested) in utilizing Multi-Agent Systems and Harness Tools for improved precision for LLMs + Vision Models
+- Website: [dyl-joseph.github.io](https://dyl-joseph.github.io/)
