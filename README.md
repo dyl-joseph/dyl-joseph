@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🤗
 I'm Dylan, 
 
 - I joined uni at 16
