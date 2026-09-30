@@ -10,4 +10,4 @@ TLDR,
 Project(s) I currently maintain: 
 - [UNTGrades](https://www.untgrades.app/)
 
-## Query The World
+## Query The World!
