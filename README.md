@@ -9,5 +9,6 @@ TLDR,
 
 Project(s) I currently maintain: 
 - [UNTGrades](https://www.untgrades.app/)
+- UNT VSB-C
 
 ## Query The World!
