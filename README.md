@@ -1,4 +1,8 @@
 ## Hi y'all 🤠
+Things I'm interested+learning at the moment, 
+- Inference Engineering (follow my daily Twitter+blog posts!)
+- Vision Training for LLMs
+
 TLDR,
 
 - Joined uni @ 16
