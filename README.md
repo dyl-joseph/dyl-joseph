@@ -13,6 +13,6 @@ TLDR,
 
 Project(s) I currently maintain: 
 - [UNTGrades](https://www.untgrades.app/)
-- UNT VSB-C (UNT Visual Schedule Builder-Classic)
+- [UNT VSB-C](https://vsb.untgrades.app/) (UNT Visual Schedule Builder-Classic)
 
 ## Query The World!
