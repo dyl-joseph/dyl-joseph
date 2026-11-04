@@ -1,6 +1,5 @@
 ## Hi y'all 🤠
 Things I'm interested+learning at the moment, 
-- Inference Engineering (follow my daily Twitter+blog posts!)
 - Largely, Vision for AI (although I am unsure which model/path I want to work in)
 
 TLDR,
