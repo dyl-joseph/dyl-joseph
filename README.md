@@ -1,7 +1,7 @@
 ## Hi y'all 🤠
 Things I'm interested+learning at the moment, 
 - Largely, Vision for AI (although I am unsure which model/path I want to work in)
-- If you let me, I'll talk for **_hours_** about my obsession with giving machines vision. The ability for a machine to interact, see, and feel the physical world with the same visual sensors as me fascinates me. Vision opens a vast ocean of capabilities that I can not fully grasp. 
+- If you let me, I'll talk for **_hours_** about my obsession with giving machines vision. The ability for a machine to interact, see, and feel the physical world with the same visual sensors as me fascinates me. Vision opens a vast ocean of capabilities that I can not fully grasp, and thus it interests me. 
 
 TLDR,
 
